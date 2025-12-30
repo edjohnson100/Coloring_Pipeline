@@ -59,3 +59,20 @@ Installers/Output/
 *.pkg
 *.dmg
 *.zip
+
+# ----------------------
+# 6. Coloring Page Pipeline (NEW)
+# ----------------------
+# Ignore the input folders so your personal images aren't uploaded
+input_png/
+color_comics_in/
+
+# Ignore all generated output folders
+color_comics_out/
+cleaned_png/
+svg/
+pdf/
+png/
+
+# Ignore the specific runtime log
+process.log
