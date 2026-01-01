@@ -1,5 +1,13 @@
 # Coloring Page Processing Pipeline (Potrace Edition)
 
+> ** **
+> # DEPRECATED - USE LucyTrace Instead!
+>
+> **2026-01-01** - I rang in the new year by merging these 2 scripts in a single, easier to use, tool.
+> * **LucyTrace** can be found here: [LucyTrace Repository](https://github.com/edjohnson100/LucyTrace)
+> ** **
+
+
 ## Overview
 
 This project provides a high-performance pipeline for converting raster images (PNG, JPG, WEBP, etc.) into clean vector SVGs and print-ready PNG/PDF files.
